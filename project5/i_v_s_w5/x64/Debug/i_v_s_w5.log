@@ -1,0 +1,4 @@
+﻿  project5.c
+C:\Users\maskh\source\repos\project5\i_v_s_w5\project5.c(5,7): warning C4047: '関数': 間接参照のレベルが 'const char *' と 'char [1][6]' で異なっています。
+C:\Users\maskh\source\repos\project5\i_v_s_w5\project5.c(5,7): warning C4024: 'puts': の型が 1 の仮引数および実引数と異なります。
+  i_v_s_w5.vcxproj -> C:\Users\maskh\source\repos\project5\x64\Debug\i_v_s_w5.exe

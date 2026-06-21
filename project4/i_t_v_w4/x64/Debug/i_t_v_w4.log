@@ -1,0 +1,10 @@
+﻿  project4.c
+C:\Users\maskh\source\repos\project4\i_t_v_w4\project4.c(6,13): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\maskh\source\repos\project4\i_t_v_w4\project4.c(6,20): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\maskh\source\repos\project4\i_t_v_w4\project4.c(7,9): warning C4473: 'printf': 書式文字列として渡された引数が不足しています
+  C:\Users\maskh\source\repos\project4\i_t_v_w4\project4.c(7,9):
+  プレースホルダーとそのパラメーターには 6 の可変個引数が必要ですが、0 が指定されています。
+  C:\Users\maskh\source\repos\project4\i_t_v_w4\project4.c(7,9):
+  不足している可変個引数 1 が書式文字列 '%d' に必要です
+  
+C:\Users\maskh\source\repos\project4\i_t_v_w4\project4.c(8,1): error C2143: 構文エラー: ';' が '}' の前にありません。
