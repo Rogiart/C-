@@ -1,0 +1,4 @@
+﻿  rennshuu5-2.c
+C:\Users\maskh\source\repos\i_v_s_W6\rennshuu5-2\rennshuu5-2.c(10,2): warning C4013: 関数 'gets' は定義されていません。int 型の値を返す外部関数と見なします。
+C:\Users\maskh\source\repos\i_v_s_W6\rennshuu5-2\rennshuu5-2.c(12,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  rennshuu5-2.vcxproj -> C:\Users\maskh\source\repos\i_v_s_W6\x64\Debug\rennshuu5-2.exe
