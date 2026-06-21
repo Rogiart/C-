@@ -1,0 +1,5 @@
+﻿  kdaai.c
+C:\Users\maskh\source\repos\i_v_s W3\kadai 3\kdaai.c(6,7): warning C4047: '関数': 間接参照のレベルが 'int' と 'int [2]' で異なっています。
+C:\Users\maskh\source\repos\i_v_s W3\kadai 3\kdaai.c(6,7): warning C4024: 'swap': の型が 1 の仮引数および実引数と異なります。
+C:\Users\maskh\source\repos\i_v_s W3\kadai 3\kdaai.c(10,15): warning C4028: パラメーターの型 1 が関数宣言と一致しません。
+  kadai 3.vcxproj -> C:\Users\maskh\source\repos\i_v_s W3\x64\Debug\kadai 3.exe
