@@ -1,0 +1,4 @@
+﻿  w3 prog2.c
+C:\Users\maskh\source\repos\programing 2 w3\Project3\w3 prog2.c(8,10): warning C4566: ユニバーサル文字名 '\u00A5' によって表示されている文字は、現在のコード ページ (932) で表示できません
+C:\Users\maskh\source\repos\programing 2 w3\Project3\w3 prog2.c(12,10): warning C4566: ユニバーサル文字名 '\u00A5' によって表示されている文字は、現在のコード ページ (932) で表示できません
+  Project3.vcxproj -> C:\Users\maskh\source\repos\programing 2 w3\x64\Debug\Project3.exe
